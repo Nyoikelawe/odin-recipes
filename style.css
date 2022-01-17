@@ -2,3 +2,12 @@ h1 {
     color: fuchsia;
     background-color: violet;
 }
+.hungry {
+    color: #a52a2a;
+}
+.eeky {
+    color: hsl(120, 100%, 25%);
+}
+.crunchy {
+    color: gold;
+}
