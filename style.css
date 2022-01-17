@@ -2,17 +2,23 @@ h1 {
     color: fuchsia;
     background-color: violet;
     font-family: "Times New Roman", Georgia, serif;
-
+    font-size: 40px;
 }
+
 .hungry {
     color: #a52a2a;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
 }
+
 .eeky {
     color: hsl(120, 100%, 25%);
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
 }
+
 .crunchy {
     color: gold;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
 }
